@@ -105,7 +105,7 @@ LIST_RE = re.compile(r"^(?:[-*•]|\d+[.)])\s+")
 # Crawler and form settings
 # ============================================================
 
-MODULES = ["📝 Content Scorer", "📨 Form Finder", "🕸 Site Crawler"]
+MODULES = ["📝 Content Scorer kazi", "📨 Form Finder", "🕸 Site Crawler"]
 DEFAULT_SITE = "https://www.chg-meridian.com/global-en/"
 DEFAULT_PAGE = "https://www.chg-meridian.com/global-en/services/sustainable-leasing/"
 
